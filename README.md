@@ -13,7 +13,7 @@ This repository contains the Python scripts and datasets used in my Master's Fin
 
 The main dataset (`2024_05_28 atlas_antibiotics.csv`) is not uploaded due to size limitations.  
 You can access it from the following Google Drive link:  
-📎 [Download Dataset](https://your-link.com](https://drive.google.com/file/d/1GzUG2tPHLqsMZztxPl8ybZdT1Fy7SEd2/view?usp=drive_link)
+📎 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1GzUG2tPHLqsMZztxPl8ybZdT1Fy7SEd2/view?usp=drive_link)
 
 ## 📌 Project Summary
 
